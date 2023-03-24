@@ -40,4 +40,17 @@ Constants in system of linear equations doesn't matter while evaluating for sing
 ```Determinant```
 if 0 then Singular else Non-singular
 
+## Linear Equation 3 variables 
 
+![Example](./images/4example.png)
+
+
+- If the matrix is singular, the rows are dependent.
+
+- If the matrix is non-singular, the rows are independent.
+
+![dependence](./images/5dependence.png)
+
+Finding Determinant 
+
+![determinant](./images/6determinant.png)
